@@ -19,8 +19,9 @@ mas não quer que eles sejam obrigatórios.
 **O código SQL esta aqui:**
 [Banco_Jose.sql](https://github.com/karendiz/ex_SQL/blob/main/Banco_Jose.sql)
 <br/>
-
-**Exercício Livraria**
+<br/>
+**Exercício de SQL - Livraria**
+<br/>
 O nosso cliente solicitou uma tabela para armazenar os livros que são comercializados pela empresa. A solicitação é somente para livros e não há a necessidade de realizar busca em outras tabelas. Hoje há um funcionário de vendas que tem uma tabela do Excel para guardar esses registros, mas as buscas estão ficando complexas. Decidiu-se então criar um banco de dados separado para esse funcionário.
 Após a criação da tabela, deveremos entregar algumas queries prontas para que sejam enviadas para o programador. As queries são as seguintes:
 1 – Trazer todos os dados.
