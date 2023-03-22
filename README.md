@@ -33,4 +33,4 @@ Após a criação da tabela, deveremos entregar algumas queries prontas para que
 6) Trazer os dados dos autores do sexo masculino que tiveram livros publicados por São Paulo ou Rio de Janeiro (Questão Desafio).
 
 **O código SQL esta aqui:**
-[EX LIVRARIA.sql]()
+[EX LIVRARIA.sql](https://github.com/karendiz/exercicios_de_SQL/blob/main/EX%20LIVRARIA.sql)
