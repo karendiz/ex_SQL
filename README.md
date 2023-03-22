@@ -1,4 +1,4 @@
-# Nesse repositório estou colocando alguns exercícios de aprendizado e fixação que fiz de SQL
+# Nesse repositório estou colocando alguns exercícios de aprendizado e fixação que fiz em SQL
 <br/>
 
 **Exercício de SQL - Sistema do Senhor José**
