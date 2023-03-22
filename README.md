@@ -10,4 +10,6 @@ ter ideia de qual tinta comprar, e informa que um carro pode ter mais de uma cor
 mas não quer que eles sejam obrigatórios.
 
 
+Modelagem Lógica
+
   ![MODELO_JOSE](https://github.com/karendiz/ex_SQL/blob/main/MODELO_JOSE.jpg)
