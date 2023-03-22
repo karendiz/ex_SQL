@@ -10,7 +10,7 @@ Sr. José quer modernizar a sua oficina, e por enquanto, cadastrar os carros que
 Sr. José mencionou que cada cliente possui apenas um carro. Um carro possui uma marca. Sr. José também quer saber as cores dos carros para 
 ter ideia de qual tinta comprar, e informa que um carro pode ter mais de uma cor. Sr. José necessita armazenar os telefones dos clientes, 
 mas não quer que eles sejam obrigatórios.
-*Modelagem Lógica:*
+**Modelagem Lógica:**
 
   ![MODELO_JOSE](https://github.com/karendiz/ex_SQL/blob/main/MODELO_JOSE.jpg)
   
