@@ -31,3 +31,6 @@ Após a criação da tabela, deveremos entregar algumas queries prontas para que
 4) Trazer o nome do livro e o número de páginas dos livros publicados por autores do sexo feminino.
 5) Trazer os valores dos livros das editoras de São Paulo.
 6) Trazer os dados dos autores do sexo masculino que tiveram livros publicados por São Paulo ou Rio de Janeiro (Questão Desafio).
+
+**O código SQL esta aqui:**
+[EX LIVRARIA.sql]()
