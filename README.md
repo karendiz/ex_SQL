@@ -1,5 +1,6 @@
-# Exercício de SQL - Sistema do Senhor José
+# Nesse repositório estou colocando alguns exercícios de aprendizado e fixação que fiz de SQL
 
+*Exercício de SQL - Sistema do Senhor José*
 Exercício de fixação
 1) Crie um banco de dados chamado projeto e conecte-se ao banco
 2) Faça a seguinte modelagem:
@@ -9,12 +10,9 @@ Sr. José mencionou que cada cliente possui apenas um carro. Um carro possui uma
 ter ideia de qual tinta comprar, e informa que um carro pode ter mais de uma cor. Sr. José necessita armazenar os telefones dos clientes, 
 mas não quer que eles sejam obrigatórios.
 
-
 Modelagem Lógica:
-
   ![MODELO_JOSE](https://github.com/karendiz/ex_SQL/blob/main/MODELO_JOSE.jpg)
   
   
-O código SQL esta no repositório:
-
+O código SQL esta aqui:
 [Banco_Jose.sql](https://github.com/karendiz/ex_SQL/blob/main/Banco_Jose.sql)
