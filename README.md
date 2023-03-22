@@ -11,10 +11,10 @@ Sr. José mencionou que cada cliente possui apenas um carro. Um carro possui uma
 ter ideia de qual tinta comprar, e informa que um carro pode ter mais de uma cor. Sr. José necessita armazenar os telefones dos clientes, 
 mas não quer que eles sejam obrigatórios.
 
-Modelagem Lógica:
+**Modelagem Lógica:**
   ![MODELO_JOSE](https://github.com/karendiz/ex_SQL/blob/main/MODELO_JOSE.jpg)
   
   
-O código SQL esta aqui:
+**O código SQL esta aqui:**
 [Banco_Jose.sql](https://github.com/karendiz/ex_SQL/blob/main/Banco_Jose.sql)
 
