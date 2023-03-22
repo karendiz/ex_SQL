@@ -16,3 +16,5 @@ Modelagem Lógica:
   
   
 O código SQL esta no repositório:
+
+![Banco_Jose]https://github.com/karendiz/ex_SQL/blob/main/Banco_Jose.sql
