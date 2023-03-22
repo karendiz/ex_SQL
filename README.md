@@ -1,6 +1,6 @@
 # Nesse repositório estou colocando alguns exercícios de aprendizado e fixação que fiz de SQL
 
-*Exercício de SQL - Sistema do Senhor José*
+**Exercício de SQL - Sistema do Senhor José**
 Exercício de fixação
 1) Crie um banco de dados chamado projeto e conecte-se ao banco
 2) Faça a seguinte modelagem:
